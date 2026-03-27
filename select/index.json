@@ -1,48 +1,83 @@
 {
   "version": 1,
-  "base_track": "あの子コンプレックス (=LOVE 全国ツアー2022 「どう考えても、君ってイコラブのこと好きじゃん」)",
+  "base_track": "あの子コンプレックス",
   "base_artist": "=LOVE",
-  "createdAt": "2026-03-25T07:48:08.799830Z",
+  "createdAt": "2026-03-27T12:10:48.366539Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "あの子コンプレックス",
+      "title": "あの子コンプレックス - From THE FIRST TAKE",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/01_あの子コンプレックス_=LOVE.lrc"
+      "path": "select/01_あの子コンプレックス_-_From_THE_FIRST_TAKE_=LOVE.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
       "title": "あの子コンプレックス",
-      "artist": "Equal LOVE",
+      "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/02_あの子コンプレックス_Equal_LOVE.lrc"
+      "path": "select/02_あの子コンプレックス_=LOVE.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "あの子コンプレックス  (=LOVE 全国ツアー2022 「どう考えても、君ってイコラブのこと好きじゃん」)",
-      "artist": "=LOVE",
+      "title": "あの子コンプレックス",
+      "artist": "Equal LOVE",
       "has_synced": true,
-      "path": "select/03_あの子コンプレックス_(=LOVE_全国ツアー2022_「どう考えても、君ってイコラブのこと好きじゃん」)_=LOVE.lrc"
+      "path": "select/03_あの子コンプレックス_Equal_LOVE.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "あの子コンプレックス - From THE FIRST TAKE",
+      "title": "あの子コンプレックス (instrumental)",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/04_あの子コンプレックス_-_From_THE_FIRST_TAKE_=LOVE.lrc"
+      "path": "select/04_あの子コンプレックス_(instrumental)_=LOVE.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "あの子コンプレックス (instrumental)",
+      "title": "あの子コンプレックス  (=LOVE 全国ツアー2022 「どう考えても、君ってイコラブのこと好きじゃん」)",
       "artist": "=LOVE",
       "has_synced": true,
-      "path": "select/05_あの子コンプレックス_(instrumental)_=LOVE.lrc"
+      "path": "select/05_あの子コンプレックス_(=LOVE_全国ツアー2022_「どう考えても、君ってイコラブのこと好きじゃん」)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの子コンプレックス",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_あの子コンプレックス_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "あの子コンプレックス",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_あの子コンプレックス_=LOVE.lrc",
+      "repo_name": "iqAeDBoquwY"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "あの子コンプレックス",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_02_あの子コンプレックス_=LOVE.lrc",
+      "repo_name": "4la0PI4BIqg"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "あの子コンプレックス",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_03_あの子コンプレックス_=LOVE.lrc",
+      "repo_name": "ShbfYtAPXuI"
     }
   ]
 }
